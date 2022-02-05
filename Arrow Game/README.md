@@ -6,5 +6,9 @@ Bu oyun nasıl oynanır?
 3.	Herhangi bir ok dans eden karaktere çarptığında oyun sonlanır.
 4.	Tahtalar farklı renk ve puana sahiptir. Örneğin kırmızı tahtalara ok geldiğinde oyuncu 1 puan kazanır.
 
+###  Kaynak:https://www.youtube.com/watch?v=TBmOFi65iUg&list=PLLMGaKJ8ODghM_kq_L5Sf7t_uqoqLqvMG
+
 ![alt text](https://github.com/halimebeyzacicek/My_Games/blob/main/photos/1.png)
 ![alt text](https://github.com/halimebeyzacicek/My_Games/blob/main/photos/2.png)
+
+
